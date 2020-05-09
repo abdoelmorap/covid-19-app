@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">covid-19</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">الرئيسية</string>
+    <string name="menu_gallery">النصائح </string>
+    <string name="menu_slideshow">التقارير</string>
+    <string name="menu_tools">ادوات اخري </string>
+    <string name="menu_share">مشاركة</string>
+    <string name="menu_send">ارسال</string>
+</resources>
